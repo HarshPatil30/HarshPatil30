@@ -1,138 +1,108 @@
 <div align="center">
 
-# ✨ Harsh Patil
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████║███████║██████╔╝███████╗███████║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-### CS Student • Builder • ML Enthusiast
+### Harsh Patil · HarshPatil30
+**CS Student · Builder · ML Enthusiast**
 
 *From eco-games to neural networks — I build things that matter.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshPatil30-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshPatil30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Patil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patil-30/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=HarshPatil30&style=flat-square&color=f97316)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshPatil30&style=flat-square&color=22c55e&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## `$ whoami`
 
 ```yaml
-name:           Harsh Patil
-username:       HarshPatil30
-location:       India
-education:      KLE Technological University
-passion:        Building impactful solutions through code
-status:         Always learning, always building
+name       : Harsh Patil
+username   : HarshPatil30
+focus      :
+  - Machine Learning & NLP
+  - Full Stack Web Development
+  - Educational & Impact-driven Projects
+currently  : "Building things that are actually useful."
 ```
 
-I'm a full-stack developer and ML enthusiast obsessed with creating solutions that solve real-world problems. Whether it's crafting interactive educational experiences, training neural networks, or architecting scalable systems, I bring creativity and technical rigor to every project.
-
 ---
 
-## 🚀 Projects That Matter
+## 🚀 Featured Projects
 
 ### 🌱 EcoGame
-**Making environmental education fun through interactive gameplay**
+> A collection of mini-games that teach kids to care for the environment.
+> Covers recycling, saving energy, reducing waste & protecting nature.
 
-- 🎮 Mini-games covering recycling, energy conservation, waste reduction
-- 👶 Designed for kids to learn while having fun
-- 💻 Built with vanilla JavaScript for performance and accessibility
-- 🎨 Engaging UI with smooth animations and responsive design
-
-**Tech:** JavaScript | HTML5 | CSS3 | Game Mechanics  
-**Repository:** [HarshPatil30/EcoGame](https://github.com/HarshPatil30/EcoGame)
+`JavaScript` · [View Repo →](https://github.com/HarshPatil30/EcoGame)
 
 ---
 
-### 🧠 Context-Aware Text Summarization
-**Deep learning model that truly understands context**
+### 🧠 ML Project — Context-Aware Text Summarization
+> Seq2Seq LSTM network that reads long text and generates concise, context-aware summaries.
 
-- 🔗 Seq2Seq LSTM architecture for semantic understanding
-- 📊 Trained on diverse datasets for robust multi-domain performance
-- 🎯 Preserves key context while reducing text to 30-40% original length
-- 📈 Achieves 87% ROUGE score on test datasets
-
-**Tech:** Python | TensorFlow/Keras | LSTM | Attention Mechanisms | Jupyter Notebook  
-**Repository:** [HarshPatil30/ML-project](https://github.com/HarshPatil30/ML-project)
+`Python` · `Jupyter Notebook` · `Deep Learning` · [View Repo →](https://github.com/HarshPatil30/ML-project)
 
 ---
 
 ### 📚 Library Management System
-**Complete digital library solution for modern libraries**
+> A clean system for managing book records, members, and transactions.
 
-- 📖 Full book cataloging with ISBN tracking
-- 👥 Member management with borrowing history
-- 📅 Automatic fine calculation and reservation system
-- 🔍 Advanced search and filtering capabilities
-
-**Tech:** HTML5 | CSS3 | JavaScript | Database Design  
-**Repository:** [HarshPatil30/library-management-system](https://github.com/HarshPatil30/library-management-system)
+`HTML` · [View Repo →](https://github.com/HarshPatil30/library-management-system)
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Tech Stack
 
-### Languages I Master
-- **Python** - ML, data science, backend development
-- **JavaScript** - Frontend, interactive experiences, web apps
-- **C++** - Competitive programming, system-level code
-- **Java** - Object-oriented design, enterprise patterns
-- **HTML/CSS** - Pixel-perfect UI implementations
+**Languages**
 
-### ML & Data Science
-- **Deep Learning:** TensorFlow, Keras, PyTorch concepts
-- **NLP:** LSTM, Seq2Seq, attention mechanisms
-- **Data Processing:** NumPy, Pandas, Scikit-learn
-- **Notebooks:** Jupyter for experimentation and documentation
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Development Tools
-- **Version Control:** Git, GitHub workflows
-- **IDE:** VS Code (power user)
-- **OS:** Linux/Ubuntu (daily driver)
-- **DevOps:** Docker basics, deployment fundamentals
+**ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9cacc&stroke=f97316)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=c9cacc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatil30&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatil30&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
 
 </div>
 
 ---
 
-## 🎓 Learning & Growth
-
-Currently exploring:
-- **Advanced NLP** - Transformer models, BERT, GPT fine-tuning
-- **Full-Stack Development** - React, Node.js, databases at scale
-- **System Design** - Building architectures for millions of users
-- **Open Source** - Contributing to projects that impact the community
-
----
-
-## 🤝 Let's Collaborate
-
-I love working on projects that combine **impact + technology**. If you're interested in:
-
-- Full-stack web applications
-- Machine learning solutions
-- Educational technology
-- Open source contributions
-- Or just geeking out about tech
-
-Let's connect and build something amazing together!
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### [📧 Get in Touch](mailto:harsh@example.com) • [💼 LinkedIn](https://www.linkedin.com/in/harsh-patil-30/) • [🐙 GitHub](https://github.com/HarshPatil30)
+![Snake animation](https://raw.githubusercontent.com/HarshPatil30/HarshPatil30/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -140,10 +110,6 @@ Let's connect and build something amazing together!
 
 <div align="center">
 
-### `"Code without purpose is just syntax. Ideas fuel everything."`
-
-**Building solutions • Solving problems • Pushing boundaries**
-
-*Last updated: April 2026*
+*"Code is just the tool. The idea is everything."*
 
 </div>

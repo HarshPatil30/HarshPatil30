@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0500,100:0d1117&height=200&section=header&text=HARSH%20PATIL&fontSize=72&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=16&descAlignY=75&descColor=ff9a3c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0500,70:1a0500,100:0d1117&height=280&section=header&text=HARSH%20PATIL&fontSize=80&fontColor=ff6a00&animation=fadeIn&fontAlignY=50&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=16&descAlignY=68&descColor=ff9a3c" width="100%"/>
 
 <br/>
 

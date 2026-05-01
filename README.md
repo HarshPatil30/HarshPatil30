@@ -269,9 +269,9 @@ module.exports = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ff9a3c&ring_color=ff6a00" height="180"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=HarshPatil30&cc=0d1117&tc=ff6a00&ic=ff6a00&bc=0d1117" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ff9a3c" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ff9a3c&cache_seconds=1800" height="180"/>
 
 <br/><br/>
 

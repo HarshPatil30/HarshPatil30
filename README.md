@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- HEADER - clean gradient, no circle, sharp text -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a00,100:0d1117&height=160&section=header&text=HARSH%20PATIL&fontSize=65&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=78&descColor=ff9a3c" width="100%"/>
 
 <br/>
@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<!-- SUBTLE DIVIDER - just a thin colored line, no animation -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<!-- WAVE ANIMATION - the animated running wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- STATUS BADGES -->
 [![GitHub](https://img.shields.io/badge/GITHUB-HarshPatil30-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
@@ -22,46 +22,82 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
 
-```bash
-┌─────────────────────────────────────────┐
-│          SYSTEM BOOT: HARSH.SYS         │
-├─────────────────────────────────────────┤
-│  whoami    →  Harsh Patil               │
-│  location  →  Hubballi, Karnataka, IN   │
-│  university→  KLE Technological Univ.   │
-│  role      →  CS Engineer               │
-│  focus     →  ML · Full Stack · Systems │
-│  status    →  Building in production    │
-│  uptime    →  99.9%                     │
-└─────────────────────────────────────────┘
+## `[ SYSTEM DIAGNOSTICS ]`
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=600&color=FF6A00&center=true&vCenter=true&width=500&lines=Booting+HARSH.SYS...;Running+diagnostics...;All+systems+nominal." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    > PROCESS: HARSH.EXE                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  [IDENTITY]                                                  ║
+║    NAME       ::  Harsh Patil                                ║
+║    HANDLE     ::  @HarshPatil30                              ║
+║    NODE       ::  Hubballi, Karnataka, IN  [UTC+5:30]        ║
+║    INSTITUTION::  KLE Technological University               ║
+╠══════════════════════════════════════════════════════════════╣
+║  [CORE MODULES]                                              ║
+║    PRIMARY    ::  Machine Learning · NLP · Deep Learning     ║
+║    SECONDARY  ::  Full Stack · React · Node.js               ║
+║    TERTIARY   ::  Systems · Cloud · DevOps                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  [RUNTIME STATUS]                                            ║
+║    MODE       ::  Builder                                    ║
+║    CURRENT    ::  Context-Aware ML Systems                   ║
+║    UPTIME     ::  99.9%      MEMORY: Optimal                 ║
+║    LOG        ::  "Code is the tool. Ideas are everything."  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ```python
-class HarshPatil:
+#!/usr/bin/env python3
+# ── harsh_patil.py ──────────────────────────────────────────
+
+from engineer import CSStudent, Builder
+
+class HarshPatil(CSStudent, Builder):
+
+    STACK    = ["Python", "JavaScript", "C++", "Java", "TypeScript"]
+    DOMAINS  = ["Machine Learning", "NLP", "Full Stack", "EdTech"]
+    ACTIVE   = "Seq2Seq LSTM · Context-Aware Summarization"
+    OPEN_TO  = ["collabs", "internships", "ideas_worth_building"]
+
     def __init__(self):
-        self.name       = "Harsh Patil"
-        self.username   = "HarshPatil30"
-        self.languages  = ["Python", "JavaScript", "C++", "Java"]
-        self.interests  = ["ML", "NLP", "Full Stack", "EdTech"]
-        self.currently  = "Context-aware ML systems"
-        self.motto      = "Code is the tool. Ideas are everything."
+        self.location   = "Hubballi, Karnataka, IN"
+        self.university = "KLE Technological University"
+        self.github     = "github.com/HarshPatil30"
+        self.status     = "online · building"
 
-    def say_hi(self):
-        print("Thanks for stopping by. Let's build something real.")
+    def philosophy(self) -> str:
+        return "Code is the tool. The idea is everything."
+
+    def contact(self) -> dict:
+        return { "ping": "open", "collab": "always" }
+
+if __name__ == "__main__":
+    dev = HarshPatil()
+    print(f"[{dev.status.upper()}] → {dev.philosophy()}")
+
+# OUTPUT → [ONLINE · BUILDING] → Code is the tool. The idea is everything.
 ```
-
-<br clear="right"/>
 
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `[ FEATURED PROJECTS ]`
 
@@ -76,11 +112,7 @@ class HarshPatil:
 | [**Library Management**](https://github.com/HarshPatil30/library-management-system) | `HTML` `JS` | Book records, member & transaction management system |
 | [**NGO Volunteer App**](https://github.com/Sanjana-Chinnannavar/ngo-app) | `React` `Tailwind` | Full-stack NGO volunteer & event management platform |
 
-</div>
-
----
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `[ TECH ARSENAL ]`
 
@@ -111,16 +143,19 @@ class HarshPatil:
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff6a00)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=ff6a00)
 ![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=ff6a00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=ff6a00)
 
-**TOOLS**
+**TOOLS & PLATFORMS**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff6a00)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff6a00)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=ff6a00)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ff6a00)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=ff6a00)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff6a00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ff6a00)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `[ SYSTEM METRICS ]`
 
@@ -128,7 +163,7 @@ class HarshPatil:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff&ring_color=ff6a00" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff" height="180"/>
 
 <br/>
@@ -139,7 +174,7 @@ class HarshPatil:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPatil30&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ff9a3c&area=true&hide_border=true" width="100%"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `[ CONTRIBUTION SNAKE ]`
 
@@ -149,7 +184,7 @@ class HarshPatil:
 
 ![Snake animation](https://raw.githubusercontent.com/HarshPatil30/HarshPatil30/output/github-contribution-grid-snake-dark.svg)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `[ ESTABLISH CONNECTION ]`
 
@@ -167,5 +202,8 @@ class HarshPatil:
 > session.end()
   — thanks for visiting. now go build something. —
 ```
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff6a00&height=120&section=footer&text=KEEP+BUILDING&fontSize=24&fontColor=ff6a00&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>

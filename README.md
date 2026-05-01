@@ -3,7 +3,10 @@
 <div align="center">
 
 <!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:ff6a00,100:0d1117&height=200&section=header&text=HARSH%20PATIL&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=62&descColor=ff9a3c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=10&section=header" width="100%"/>
+
+<!-- GLITCH NAME ANIMATION -->
+<img src="https://raw.githubusercontent.com/HarshPatil30/HarshPatil30/main/glitch.svg" width="100%" height="160"/>
 
 <br/>
 

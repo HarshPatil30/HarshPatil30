@@ -1,0 +1,49 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip1">
+      <rect x="0" y="15" width="800" height="22"/>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="0" y="45" width="800" height="18"/>
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="70" width="800" height="14"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="150" fill="#0d1117"/>
+
+  <!-- Base name -->
+  <text font-family="Impact, Arial Black, sans-serif" font-size="78" font-weight="900" fill="#ff6a00" letter-spacing="10" x="400" y="95" text-anchor="middle">HARSH PATIL</text>
+
+  <!-- Cyan glitch layer 1 -->
+  <text font-family="Impact, Arial Black, sans-serif" font-size="78" font-weight="900" fill="#00ffff" letter-spacing="10" x="400" y="95" text-anchor="middle" clip-path="url(#clip1)" opacity="0">
+    HARSH PATIL
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0" dur="3.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;-7,0;0,0;0,0;6,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Red glitch layer 2 -->
+  <text font-family="Impact, Arial Black, sans-serif" font-size="78" font-weight="900" fill="#ff003c" letter-spacing="10" x="400" y="95" text-anchor="middle" clip-path="url(#clip2)" opacity="0">
+    HARSH PATIL
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0" dur="3.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;5,0;0,0;0,0;-8,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Cyan glitch layer 3 -->
+  <text font-family="Impact, Arial Black, sans-serif" font-size="78" font-weight="900" fill="#00ffff" letter-spacing="10" x="400" y="95" text-anchor="middle" clip-path="url(#clip3)" opacity="0">
+    HARSH PATIL
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0" dur="3.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;0,0;0,0;-5,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main name flicker -->
+  <text font-family="Impact, Arial Black, sans-serif" font-size="78" font-weight="900" fill="#ff6a00" letter-spacing="10" x="400" y="95" text-anchor="middle">
+    HARSH PATIL
+    <animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0.7;1;0.9;1;0.8;1;1;1;1;1;1;1;1;1" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Desc -->
+  <text font-family="'Courier New', monospace" font-size="13" fill="#ff9a3c" letter-spacing="4" x="400" y="130" text-anchor="middle">CS ENGINEER · ML · FULL STACK · BUILDER</text>
+
+</svg>

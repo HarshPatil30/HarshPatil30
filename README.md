@@ -23,7 +23,7 @@
 <!-- STATUS BADGES -->
 [![GitHub](https://img.shields.io/badge/GITHUB-HarshPatil30-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-ff6a00?style=for-the-badge&labelColor=0d1117)
-![Profile Views](https://komarev.com/ghpvc/?username=HarshPatil30&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&base=100)
+
 
 <br/><br/>
 

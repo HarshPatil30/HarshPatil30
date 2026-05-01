@@ -274,7 +274,7 @@ module.exports = {
 
 
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=HarshPatil30&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=ff9a3c&dates=ff9a3c&stroke=ff6a00&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
 

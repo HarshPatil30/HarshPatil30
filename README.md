@@ -308,9 +308,9 @@ module.exports = {
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://www.linkedin.com/in/harshpatil3006)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
-[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:patilharsh3006@gmail.com)
 
 <br/><br/>
 

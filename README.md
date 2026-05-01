@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0500,70:1a0500,100:0d1117&height=280&section=header&text=HARSH%20PATIL&fontSize=80&fontColor=ff6a00&animation=fadeIn&fontAlignY=50&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=16&descAlignY=68&descColor=ff9a3c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:ff6a00,100:0d1117&height=220&section=header&text=HARSH%20PATIL&fontSize=75&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=16&descAlignY=75&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -269,8 +269,6 @@ module.exports = {
 
 <br/><br/>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=HarshPatil30&cc=0d1117&tc=ff6a00&ic=ff6a00&bc=0d1117" height="180"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ff9a3c&cache_seconds=1800" height="180"/>
 
 <br/><br/>

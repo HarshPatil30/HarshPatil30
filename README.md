@@ -7,12 +7,17 @@
 
 <br/>
 
+<!-- OPENING ANIMATION - matrix rain style banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1200&pause=200&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%3E+ACCESSING+PROFILE+%2F%2F+NODE%3A+HarshPatil30...;%3E+AUTHENTICATION+PASSED+%2F%2F+CLEARANCE%3A+FULL...;%3E+WELCOME.+INITIALIZING+INTERFACE..." alt="Boot Sequence" />
+
+<br/>
+
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- WAVE ANIMATION - the animated running wave -->
+<!-- WAVE ANIMATION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- STATUS BADGES -->
@@ -38,60 +43,61 @@
 
 <br/>
 
+<!-- SIDE BY SIDE CARDS -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    > PROCESS: HARSH.EXE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  [IDENTITY]                                                  ║
-║    NAME       ::  Harsh Patil                                ║
-║    HANDLE     ::  @HarshPatil30                              ║
-║    NODE       ::  Hubballi, Karnataka, IN  [UTC+5:30]        ║
-║    INSTITUTION::  KLE Technological University               ║
-╠══════════════════════════════════════════════════════════════╣
-║  [CORE MODULES]                                              ║
-║    PRIMARY    ::  Machine Learning · NLP · Deep Learning     ║
-║    SECONDARY  ::  Full Stack · React · Node.js               ║
-║    TERTIARY   ::  Systems · Cloud · DevOps                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  [RUNTIME STATUS]                                            ║
-║    MODE       ::  Builder                                    ║
-║    CURRENT    ::  Context-Aware ML Systems                   ║
-║    UPTIME     ::  99.9%      MEMORY: Optimal                 ║
-║    LOG        ::  "Code is the tool. Ideas are everything."  ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════╗
+║     > PROCESS: HARSH.EXE        ║
+╠══════════════════════════════════╣
+║  [IDENTITY]                     ║
+║  NAME  :: Harsh Patil           ║
+║  HANDLE:: @HarshPatil30         ║
+║  NODE  :: Hubballi, KA, IN      ║
+║  INST  :: KLE Tech University   ║
+╠══════════════════════════════════╣
+║  [RUNTIME STATUS]               ║
+║  MODE  :: Builder               ║
+║  BUILD :: Context-Aware ML      ║
+║  UPTIME:: 99.9%                 ║
+║  LOG   :: "Ideas are everything"║
+╚══════════════════════════════════╝
 ```
+
+</td>
+<td width="50%" valign="top">
 
 ```python
 #!/usr/bin/env python3
-# ── harsh_patil.py ──────────────────────────────────────────
+# harsh_patil.py
 
 from engineer import CSStudent, Builder
 
 class HarshPatil(CSStudent, Builder):
 
-    STACK    = ["Python", "JavaScript", "C++", "Java", "TypeScript"]
-    DOMAINS  = ["Machine Learning", "NLP", "Full Stack", "EdTech"]
-    ACTIVE   = "Seq2Seq LSTM · Context-Aware Summarization"
-    OPEN_TO  = ["collabs", "internships", "ideas_worth_building"]
+  STACK  = ["Python","JS","C++","Java"]
+  DOMAIN = ["ML","NLP","FullStack","EdTech"]
+  OPEN   = ["collabs","internships","ideas"]
 
-    def __init__(self):
-        self.location   = "Hubballi, Karnataka, IN"
-        self.university = "KLE Technological University"
-        self.github     = "github.com/HarshPatil30"
-        self.status     = "online · building"
+  def __init__(self):
+    self.location = "Hubballi, KA, IN"
+    self.uni      = "KLE Tech University"
+    self.status   = "online · building"
 
-    def philosophy(self) -> str:
-        return "Code is the tool. The idea is everything."
-
-    def contact(self) -> dict:
-        return { "ping": "open", "collab": "always" }
+  def philosophy(self) -> str:
+    return "Code is the tool."
 
 if __name__ == "__main__":
-    dev = HarshPatil()
-    print(f"[{dev.status.upper()}] → {dev.philosophy()}")
-
-# OUTPUT → [ONLINE · BUILDING] → Code is the tool. The idea is everything.
+  dev = HarshPatil()
+  print(f"[{dev.status.upper()}]")
+# → [ONLINE · BUILDING]
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 

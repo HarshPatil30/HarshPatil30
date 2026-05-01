@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a00,100:0d1117&height=160&section=header&text=HARSH%20PATIL&fontSize=65&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=78&descColor=ff9a3c" width="100%"/>
+<!-- ANIMATED NAME HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a0500,100:0d1117&height=200&section=header&text=HARSH%20PATIL&fontSize=72&fontColor=ff6a00&animation=fadeIn&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=16&descAlignY=75&descColor=ff9a3c" width="100%"/>
 
 <br/>
 
-<!-- OPENING ANIMATION - plays once on load -->
+<!-- OPENING BOOT SEQUENCE - plays once -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=300&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=%3E+ACCESSING+PROFILE+%2F%2F+NODE%3A+HarshPatil30...;%3E+AUTHENTICATION+PASSED+%2F%2F+CLEARANCE%3A+FULL...;%3E+WELCOME.+INITIALIZING+INTERFACE..." alt="Boot Sequence" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
+<!-- LOOPING TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
 
 <br/><br/>
@@ -28,19 +28,22 @@
 
 </div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ## `[ SYSTEM DIAGNOSTICS ]`
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=600&color=FF6A00&center=true&vCenter=true&width=500&lines=Booting+HARSH.SYS...;Running+diagnostics...;All+systems+nominal." alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-<table width="100%">
+<!-- ABOUT CARDS - side by side like Vishal's style -->
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
 <tr>
-<td width="48%" valign="top" align="left">
+<td width="50%" valign="top">
 
 ```
 ╔════════════════════════════════════════╗
@@ -65,40 +68,43 @@
 ```
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="top" align="left">
+<td width="50%" valign="top">
 
-```python
-#!/usr/bin/env python3
-# ── harsh_patil.py ──────────────────────
+```javascript
+// harsh.config.js
 
-from engineer import CSStudent, Builder
+module.exports = {
+  name     : "Harsh Patil",
+  handle   : "@HarshPatil30",
+  location : "Hubballi, India",
+  education: "KLE Technological University",
 
-class HarshPatil(CSStudent, Builder):
+  languages: [
+    "Python", "JavaScript",
+    "C++", "Java", "TypeScript"
+  ],
 
-    STACK  = ["Python", "JS", "C++", "Java"]
-    DOMAIN = ["ML", "NLP", "FullStack", "EdTech"]
-    OPEN   = ["collabs", "internships", "ideas"]
+  interests: [
+    "Machine Learning",
+    "NLP & Deep Learning",
+    "Full Stack Development",
+    "EdTech & Open Source"
+  ],
 
-    def __init__(self):
-        self.location = "Hubballi, KA, IN"
-        self.uni      = "KLE Tech University"
-        self.status   = "online · building"
+  currently: "Context-Aware ML Systems",
 
-    def philosophy(self) -> str:
-        return "Code is the tool."
-
-if __name__ == "__main__":
-    dev = HarshPatil()
-    print(f"[{dev.status.upper()}]")
-    # → [ONLINE · BUILDING]
+  debug: () => {
+    console.log("it works!");
+    // ^ and I'm proud of it
+  }
+};
 ```
 
 </td>
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -109,17 +115,97 @@ if __name__ == "__main__":
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=FF6A00&center=true&vCenter=true&width=435&lines=Scanning+project+database...;4+records+found." alt="Typing SVG" />
 
-<br/><br/>
+</div>
 
-| PROJECT | STACK | DESCRIPTION |
-|:-------:|:-----:|:------------|
-| [**EcoGame**](https://github.com/HarshPatil30/EcoGame) | `JavaScript` | Mini-games teaching kids environmental habits — recycling, energy saving, waste reduction |
-| [**ML Text Summarizer**](https://github.com/HarshPatil30/ML-project) | `Python` `LSTM` `NLP` | Context-aware text summarization using Seq2Seq LSTM networks |
-| [**Library Management**](https://github.com/HarshPatil30/library-management-system) | `HTML` `JS` | Book records, member & transaction management system |
-| [**NGO Volunteer App**](https://github.com/Sanjana-Chinnannavar/ngo-app) | `React` `Tailwind` | Full-stack NGO volunteer & event management platform |
+<br/>
 
-<br/><br/>
+<!-- PROJECT CARDS - same box style as about section -->
+<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
+```
+╔════════════════════════════════════════╗
+║  PROJECT  ::  EcoGame                  ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  STACK    ::  JavaScript               ║
+║  TYPE     ::  EdTech · Game            ║
+║                                        ║
+║  Mini-games teaching kids to           ║
+║  recycle, save energy & protect        ║
+║  the environment. Learn by playing.    ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+[→ View Repository](https://github.com/HarshPatil30/EcoGame)
+
+</td>
+<td width="50%" valign="top">
+
+```
+╔════════════════════════════════════════╗
+║  PROJECT  ::  ML Text Summarizer       ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  STACK    ::  Python · LSTM · NLP      ║
+║  TYPE     ::  ML · Deep Learning       ║
+║                                        ║
+║  Context-aware text summarization      ║
+║  using Seq2Seq LSTM networks.          ║
+║  Understands what matters most.        ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+[→ View Repository](https://github.com/HarshPatil30/ML-project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+╔════════════════════════════════════════╗
+║  PROJECT  ::  Library Management       ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  STACK    ::  HTML · JavaScript        ║
+║  TYPE     ::  Web · Management         ║
+║                                        ║
+║  Book records, member tracking         ║
+║  and transaction management            ║
+║  system. Clean and functional.         ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+[→ View Repository](https://github.com/HarshPatil30/library-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+```
+╔════════════════════════════════════════╗
+║  PROJECT  ::  NGO Volunteer App        ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  STACK    ::  React · Tailwind         ║
+║  TYPE     ::  Full Stack · Social      ║
+║                                        ║
+║  Full-stack platform for NGO           ║
+║  volunteer management, events          ║
+║  and admin dashboards.                 ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+[→ View Repository](https://github.com/Sanjana-Chinnannavar/ngo-app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/><br/>
@@ -183,17 +269,17 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshPatil30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=ff9a3c&ring_color=ff6a00" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatil30&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ff9a3c" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPatil30&hide_border=true&background=0d1117&ring=ff6a00&fire=ff9a3c&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=ffffff&stroke=ff6a00" width="65%"/>
+<img src="https://streak-stats.demolab.com?user=HarshPatil30&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=ff9a3c&dates=ff9a3c&stroke=ff6a00&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPatil30&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ff9a3c&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPatil30&bg_color=0d1117&color=ff9a3c&line=ff6a00&point=ff6a00&area=true&area_color=ff6a00&hide_border=true" width="100%"/>
 
 <br/><br/>
 

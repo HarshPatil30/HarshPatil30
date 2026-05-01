@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:0d1117&height=180&section=header&text=HARSH%20PATIL&fontSize=80&fontColor=ff6a00&animation=twinkling&fontAlignY=55&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=80&descColor=ff9a3c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:ff6a00,100:0d1117&height=200&section=header&text=HARSH%20PATIL&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CS%20ENGINEER%20%7C%20ML%20%7C%20FULL%20STACK%20%7C%20BUILDER&descSize=15&descAlignY=62&descColor=ff9a3c" width="100%"/>
 
 <br/>
 
@@ -305,9 +305,9 @@ module.exports = {
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://www.linkedin.com/in/harshpatil3006/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff6a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
-[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:patilharsh3006@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-PING_ME-ff6a00?style=for-the-badge&logo=gmail&logoColor=ff6a00&labelColor=0d1117)](mailto:YOUR_EMAIL)
 
 <br/><br/>
 

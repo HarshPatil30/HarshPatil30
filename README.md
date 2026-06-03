@@ -24,7 +24,6 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-HarshPatil30-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-ff6a00?style=for-the-badge&labelColor=0d1117)
 
-
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -43,7 +42,6 @@
 
 <br/>
 
-<!-- ABOUT CARDS - side by side like Vishal's style -->
 <table width="100%" border="0" cellspacing="20" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
@@ -122,7 +120,6 @@ module.exports = {
 
 <br/>
 
-<!-- PROJECT CARDS - same box style as about section -->
 <table width="100%" border="0" cellspacing="20" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
@@ -269,14 +266,6 @@ module.exports = {
 ## `[ SYSTEM METRICS ]`
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1500&pause=800&color=FF6A00&center=true&vCenter=true&width=350&lines=Fetching+GitHub+analytics..." alt="Typing SVG" />
-
-<br/><br/>
-
-
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=HarshPatil30&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=ff9a3c&dates=ff9a3c&stroke=ff6a00&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
 
 <br/><br/>
 

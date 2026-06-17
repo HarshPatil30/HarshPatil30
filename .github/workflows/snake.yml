@@ -5,20 +5,25 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Restrict default permissions to read-only; jobs opt in to what they need.
+permissions: {}
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Pinned to commit SHA for supply-chain safety (tag: v3)
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: HarshPatil30
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # Pinned to commit SHA for supply-chain safety (tag: v4)
+      - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist

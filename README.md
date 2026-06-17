@@ -16,7 +16,7 @@
 <br/>
 
 <!-- LOOPING TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
 
 <br/><br/>
 

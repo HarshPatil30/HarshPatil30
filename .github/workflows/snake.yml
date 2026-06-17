@@ -5,20 +5,43 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs
+        id: snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: HarshPatil30
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Verify generated files exist
+        run: |
+          missing=0
+          for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
+            if [ ! -s "$f" ]; then
+              echo "::error::Missing or empty file: $f"
+              missing=1
+            fi
+          done
+          if [ "$missing" -eq 1 ]; then
+            echo "::error::Snake SVG generation produced incomplete output"
+            exit 1
+          fi
+          echo "All expected SVG files are present and non-empty"
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

@@ -2,27 +2,24 @@
 
 <div align="center">
 
-<!-- ANIMATED NAME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=10&section=header" width="100%"/>
-
 <!-- GLITCH NAME ANIMATION -->
-<img src="https://raw.githubusercontent.com/HarshPatil30/HarshPatil30/main/glitch.svg" width="100%" height="160"/>
+<img src="./glitch.svg" width="100%" height="160"/>
 
 <br/>
 
-<!-- OPENING BOOT SEQUENCE - plays once -->
+<!-- BOOT SEQUENCE - plays once -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=300&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=%3E+ACCESSING+PROFILE+%2F%2F+NODE%3A+HarshPatil30...;%3E+AUTHENTICATION+PASSED+%2F%2F+CLEARANCE%3A+FULL...;%3E+WELCOME.+INITIALIZING+INTERFACE..." alt="Boot Sequence" />
 
 <br/>
 
 <!-- LOOPING TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Initializing+Harsh.exe...;Loading+ML+modules...;Compiling+full+stack+skills...;Ready+to+build+something+real.;Code+is+the+tool.+Ideas+are+everything." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- STATUS BADGES -->
 [![GitHub](https://img.shields.io/badge/GITHUB-HarshPatil30-ff6a00?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=0d1117)](https://github.com/HarshPatil30)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-ff6a00?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshPatil30&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&base=100)
 
 <br/><br/>
 
@@ -32,75 +29,25 @@
 
 <br/>
 
+### `HarshPatil30@github ~ $ ./contributions.sh`
+
 <div align="center">
-
-## `[ SYSTEM DIAGNOSTICS ]`
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=600&color=FF6A00&center=true&vCenter=true&width=500&lines=Booting+HARSH.SYS...;Running+diagnostics...;All+systems+nominal." alt="Typing SVG" />
-
+<img src="./contrib-heatmap.svg" width="860"/>
 </div>
 
 <br/>
 
-<table width="100%" border="0" cellspacing="20" cellpadding="0">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### `HarshPatil30@github ~ $ whoami`
+
+<table width="100%" border="0" cellspacing="16" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
-
-```
-╔════════════════════════════════════════╗
-║        > PROCESS: HARSH.EXE           ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  [IDENTITY]                            ║
-║   NAME   ::  Harsh Patil              ║
-║   HANDLE ::  @HarshPatil30            ║
-║   NODE   ::  Hubballi, KA, IN         ║
-║   INST   ::  KLE Tech University      ║
-║                                        ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  [RUNTIME STATUS]                      ║
-║   MODE   ::  Builder                  ║
-║   BUILD  ::  Context-Aware ML         ║
-║   UPTIME ::  99.9%                    ║
-║   LOG    ::  "Ideas are everything"   ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
-
+<td width="43%" valign="top">
+<img src="./harsh-ascii.svg" width="370"/>
 </td>
-<td width="50%" valign="top">
-
-```javascript
-// harsh.config.js
-
-module.exports = {
-  name     : "Harsh Patil",
-  handle   : "@HarshPatil30",
-  location : "Hubballi, India",
-  education: "KLE Technological University",
-
-  languages: [
-    "Python", "JavaScript",
-    "C++", "Java", "TypeScript"
-  ],
-
-  interests: [
-    "Machine Learning",
-    "NLP & Deep Learning",
-    "Full Stack Development",
-    "EdTech & Open Source"
-  ],
-
-  currently: "Context-Aware ML Systems",
-
-  debug: () => {
-    console.log("it works!");
-    // ^ and I'm proud of it
-  }
-};
-```
-
+<td width="57%" valign="top">
+<img src="./info-card.svg" width="490"/>
 </td>
 </tr>
 </table>
@@ -263,20 +210,6 @@ module.exports = {
 
 <br/><br/>
 
-## `[ SYSTEM METRICS ]`
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1500&pause=800&color=FF6A00&center=true&vCenter=true&width=350&lines=Fetching+GitHub+analytics..." alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPatil30&bg_color=0d1117&color=ff9a3c&line=ff6a00&point=ff6a00&area=true&area_color=ff6a00&hide_border=true" width="100%"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/><br/>
-
 ## `[ CONTRIBUTION SNAKE ]`
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1500&pause=800&color=FF6A00&center=true&vCenter=true&width=350&lines=Rendering+contribution+snake..." alt="Typing SVG" />
@@ -310,7 +243,6 @@ module.exports = {
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff6a00&height=120&section=footer&text=KEEP+BUILDING&fontSize=24&fontColor=ff6a00&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
